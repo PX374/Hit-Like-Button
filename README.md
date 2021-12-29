@@ -1,0 +1,2 @@
+# Hit-Like-Button
+Social networking can help a business gain contacts, clients, and increased public awareness.  Even entrepreneurs who run small businesses from their homes can take advantage of this resource to set up a global presence. The best way to get more people interested to view your profile and send you a friend request is to hit the like button that why i build this simple javascrit code to help you achieve this task.
