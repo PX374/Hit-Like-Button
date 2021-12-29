@@ -11,7 +11,9 @@ Social networking can help a business gain contacts, clients, and increased publ
    Copy and past the like_all.js and press press enter.
    > ![Simple capture](hit_like_3.PNG)
   You sucess fully like all those post.
+  
    Same principe with send massive friend request and join group request. 
+   Enjoy !!!
 ## Buy Me A Coffe
 Perfect Money : U289663800
 BTC : bc1qxm4e7fr0w9vv73qn4lmnxp4u5ekgndxx33trhk
